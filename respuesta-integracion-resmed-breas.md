@@ -1,4 +1,4 @@
-# Respuesta (06-03-2026): viabilidad de integración con ResMed y Breas Medical
+# Respuesta: viabilidad de integración con ResMed y Breas Medical
 
 ## Pregunta
 ¿Es posible integrar una solución propia con las plataformas digitales de **ResMed** y **Breas Medical** para monitorización/gestión?
@@ -37,4 +37,4 @@ Implementar por fases:
 
 ---
 
-Referencia temporal: respuesta solicitada por el usuario el **06-03-2026** y documentada en memoria operativa del mismo día.
+Referencia temporal: respuesta solicitada por el usuario y documentada en memoria operativa.
