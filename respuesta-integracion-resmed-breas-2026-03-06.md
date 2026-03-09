@@ -20,7 +20,14 @@ Se revisó documentación pública de:
 ### Hallazgos clave
 1. **ResMed (AirView)** muestra capacidades de integración y figura de “socio de integración / integrador aprobado”, además de controles de seguridad y trazabilidad.
 2. **Breas (EveryWare + iLink)** documenta plataforma cloud segura, conectividad 4G y funciones remotas para seguimiento.
-3. En el corte documental público usado en esa fecha, **no se confirmó** una **API pública abierta** tipo autoservicio ni especificaciones abiertas completas (p. ej. HL7/FHIR/OAuth2 publicadas de forma general para terceros).
+3. Se añade para contexto técnico que **Breas Medical opera su capa cloud sobre Microsoft Azure** (según materiales revisados de producto/operación).
+4. En el corte documental público usado en esa fecha, **no se confirmó** una **API pública abierta** tipo autoservicio ni especificaciones abiertas completas (p. ej. HL7/FHIR/OAuth2 publicadas de forma general para terceros).
+
+## Documentación añadida
+- Breas Medical (EveryWare compliance report, español):
+  - https://www.educationbybreas.com/everyware-create-compliance-report-spanish/
+- ResMed (AirView e-help, español):
+  - https://document.resmed.com/documents/products/data-management/airview/e-help/airview_e-help_row_spa.pdf
 
 ## Recomendación dada ese día
 Implementar por fases:
